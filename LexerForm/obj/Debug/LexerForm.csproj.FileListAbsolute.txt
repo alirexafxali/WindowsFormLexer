@@ -1,0 +1,10 @@
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\obj\Debug\LexerForm.csprojAssemblyReference.cache
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\obj\Debug\LexerForm.Tokens.resources
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\obj\Debug\LexerForm.Properties.Resources.resources
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\obj\Debug\LexerForm.csproj.GenerateResource.cache
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\obj\Debug\LexerForm.csproj.CoreCompileInputs.cache
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\bin\Debug\LexerForm.exe.config
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\bin\Debug\LexerForm.exe
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\bin\Debug\LexerForm.pdb
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\obj\Debug\LexerForm.exe
+C:\Users\Alirexa\Downloads\Workspace\Compiler\LexerWinForm\LexerForm\LexerForm\obj\Debug\LexerForm.pdb
